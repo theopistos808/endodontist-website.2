@@ -1,6 +1,6 @@
 # Nasser Endodontics — Website Redesign
 
-A clean, modern redesign of [nasserendo.com](https://www.nasserendo.com) — the practice website for **Dr. Thomas K. Nasser, DDS**, a board-certified root canal specialist in Carmel, IN.
+A clean, modern redesign of [nasserendo.com](https://www.nasserendo.com) — the practice website for a board-certified root canal specialist.
 
 ## About This Project
 
@@ -17,7 +17,7 @@ The original site, managed by a third-party dental web company (PBHS), had dated
 
 ## What This Demonstrates
 
-This is part of a personal project to show **older entrepreneurs in my family** what's now possible with AI tools. Many small business owners are locked into expensive website management contracts, paying monthly fees for sites that look outdated and are hard to change. AI makes it possible to:
+This is part of a personal project to show entrepreneurs with limited experience using newer technologies what's now possible with AI tools. Many small business owners are locked into expensive website management contracts, paying monthly fees for sites that look outdated and are hard to change. AI makes it possible to:
 
 - Redesign a website in minutes, not weeks
 - Generate clean, production-ready code without knowing how to code
